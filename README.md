@@ -5,7 +5,7 @@
 <p align="center">
 
 
-  I am a passionate **Software Engineering Student** and currently working as an **AI/ML Intern at Cybex**. I love solving problems, building intelligent systems, and exploring new technologies.
+  I am a passionate **Software Engineering Student**. I love solving problems, building intelligent systems, and exploring new technologies.
 
 ---
 
@@ -66,11 +66,10 @@
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[BCI-Motor-Imagery-EEGNet]([#](https://github.com/MohsinJutt62/BCI-Motor-Imagery-EEGNet.git))** | Write a 1-2 line description of your best AI/ML or Python project here. | `Python`, `Machine Learning` |
-| **[Project Name 2](#)** | Describe a web development or C++ project you are proud of. | `C++`, `OOP` |
-| **[Project Name 3](#)** | Mention any tool, script, or system you have built during your studies. | `JavaScript`, `HTML/CSS` |
+| **[BCI-Motor-Imagery-EEGNet](https://github.com/MohsinJutt62/BCI-Motor-Imagery-EEGNet.git)** | Deep Learning framework using EEGNet to classify Brain-Computer Interface (BCI) Motor Imagery signals with 83% accuracy. | `Python`, `TensorFlow` , `Keras`, `NumPy`, `Pandas` , `SciPy`, `MNE-Python`, `Google Colab` |
+| **[Smart-Retail-Intelligence-System](https://github.com/MohsinJutt62/Smart-Retail-Intelligence-System.git)** | An end-to-end Python data pipeline and Streamlit BI dashboard simulating a large-scale retail company. | ` Python 3.x`, `Faker`, `NumPy`, `Pandas`, `Plotly`, `Streamlit`, `VS Code` |
+| **[LEAD-EEG-Alzheimers-Detection](https://github.com/MohsinJutt62/LEAD-EEG-Alzheimers-Detection.git)** | AI-based diagnostic tool for Alzheimer's detection using EEG signals | `Python (3.8+)`, `NumPy` , `Pandas`, `MNE-Python`, `Scikit-Learn`, `Imbalanced-Learn` , `Google Colab`, `Git & GitHub` , `Graphviz` |
 
-*(Note: Replace the `#` with your actual repository links and update project names).*
 
 ---
 ### 📊 GitHub Stats
