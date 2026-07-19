@@ -15,30 +15,49 @@
 
 ### 🙋‍♂️ About Me
 
-- 🎓 **Software Engineering Student** | Faisalabad, Pakistan
+- 🎓 **Software Engineering Student** @National Textile University, Faisalabad (2024-2028)
 - 🌱 Currently working as an **AI/ML Intern at Cybex**
-- 👨‍💻 Passionate about building intelligent systems, Data Science, software solutions and Problem Solving systems
-- 💬 Ask me about **Python, AI/ML, and Web Development**
-- 📫 Reach out via email: **mohsinbatth281@gmail.com**
-- ⚡ Fun fact: I love turning complex data into actionable insights!
+- 👨‍💻 Passionate about building projects in intelligent systems, Machine Learning, Data Science and software solutions 
+- 👯 Open to **collaborating** on Python, AI/ML, and web dev projects
+- 📍 Based in **Faisalabad, Pakistan**
+- 📫 Reach me at [mohsinbatth281@gmail.com](mailto:mohsinbatth281@gmail.com)
+- 💼 Connect on [LinkedIn](https://www.linkedin.com/in/mohsin-sajjad-62z)
+- ⚡ Fun fact: I enjoy exploring emerging AI technologies to build time-efficient solutions
 
 ---
 
 
 ### 🛠️ Tech Stack & Skills
 
-#### 🤖 Artificial Intelligence & Data
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-#### 💻 Software & Web Development
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-#### 📊 Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%230078D4.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white)
+
 ![MS Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ---
@@ -47,7 +66,7 @@
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Project Name 1](#)** | Write a 1-2 line description of your best AI/ML or Python project here. | `Python`, `Machine Learning` |
+| **[BCI-Motor-Imagery-EEGNet]([#](https://github.com/MohsinJutt62/BCI-Motor-Imagery-EEGNet.git))** | Write a 1-2 line description of your best AI/ML or Python project here. | `Python`, `Machine Learning` |
 | **[Project Name 2](#)** | Describe a web development or C++ project you are proud of. | `C++`, `OOP` |
 | **[Project Name 3](#)** | Mention any tool, script, or system you have built during your studies. | `JavaScript`, `HTML/CSS` |
 
